@@ -1,0 +1,7 @@
+build/
+build-vita/
+*.vpk
+# never commit EA game data
+GameData/
+*.far
+*.iff
